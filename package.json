@@ -1,0 +1,29 @@
+{
+    "name": "@kakadu-dev/base-prettier",
+    "version": "1.0.0",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "description": "Kakadu Base Prettier config",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kakadu-dev/base-prettier.git"
+    },
+    "keywords": [
+        "kakadu",
+        "base",
+        "prettier",
+        "common",
+        "config"
+    ],
+    "author": "Mikhail Yarmaliuk",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kakadu-dev/base-prettier/issues"
+    },
+    "homepage": "https://github.com/kakadu-dev/base-prettier#readme"
+}
