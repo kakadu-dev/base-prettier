@@ -25,5 +25,8 @@
     "bugs": {
         "url": "https://github.com/kakadu-dev/base-prettier/issues"
     },
-    "homepage": "https://github.com/kakadu-dev/base-prettier#readme"
+    "homepage": "https://github.com/kakadu-dev/base-prettier#readme",
+    "peerDependencies": {
+        "prettier": "^2.0.4"
+    }
 }
